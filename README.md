@@ -23,7 +23,7 @@ I am an engineer with a double degree in Industrial Automation and Mechanical El
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=skril349&%20Notebook&layout=compact&count_private=false&langs_count=8" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=skril349&show_icons=true&count_private=false" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=skril349&show_icons=true&count_private=false" /></td> 
     </tr>   
   </table>
 </center>
